@@ -21,6 +21,7 @@
       loading = false;
     }
   }
+  onMount(loadTodos);
 </script>
 
 <style>
